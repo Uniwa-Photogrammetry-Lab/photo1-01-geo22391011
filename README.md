@@ -1,3 +1,7 @@
+# 1η άσκηση Φωτογραμμετρία I
+# Ειρήνη Βεργέτη 
+# 22391011
+# 6ο Εξάμηνο
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
